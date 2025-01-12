@@ -1,5 +1,8 @@
 # CTFd-owl
 
+## Now archived.
+Project has been moved to [this repo](https://github.com/mscw-infosec/CTFd-owl).
+
 Forked from [CTFd-Owl](https://github.com/BIT-NSC/ctfd-owl.git) by BIT-NSC.
 Added english documentaion & some new features.
 
